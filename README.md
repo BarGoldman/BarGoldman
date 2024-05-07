@@ -1,8 +1,16 @@
 ### Hi there 👋
-צ,
+
 ### My name is Bar Goldman and Welcome to my GitHub page
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+#### My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=BarGoldman&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BarGoldman&theme=dark" width="48%" >
+
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarGoldman&layout=compact)
+
+
 
 
 
