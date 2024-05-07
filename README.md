@@ -12,7 +12,7 @@
 </p>
 
 ## Contact me here:
-<a href="mailto:bar8770@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:bar877052@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 #### My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=BarGoldman&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
